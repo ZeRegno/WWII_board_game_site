@@ -1,0 +1,40 @@
+body {
+    background-color: #2c2f36;  /* Темнографитовый фон */
+    color: white;               /* Белый текст */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Стили для кнопок */
+button, a {
+    background-color: #1a1d22;  /* Тёмный цвет кнопок */
+    color: white;               /* Белый текст на кнопках */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;      /* Убираем подчеркивание у ссылок */
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover, a:hover {
+    background-color: #33393f;  /* Немного темнее при наведении */
+}
+
+/* Пример стиля для ссылок */
+a {
+    text-decoration: none;
+}
+
+h1, h3 {
+    color: white;  /* Белые заголовки */
+}
+
+/* Стиль для основной страницы */
+.container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}

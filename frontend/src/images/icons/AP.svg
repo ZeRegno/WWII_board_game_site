@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600">
+    <g id="svgg">
+        <path id="path0" d="M10,10 H 90 V 90 H 10 L 10,10" stroke="none" fill="#fcfcfc" fill-rule="evenodd"></path>
+        <path id="path1" d="M100,100 H 180 V 180 H 100 L 100,100" stroke="none" fill="#100fcfc" fill-rule="evenodd"></path>
+        <path id="path2" d="M200,200 H 280 V 280 H 200 L 200,200" stroke="none" fill="#100fcfc" fill-rule="evenodd"></path>
+        <path id="path3" d="M300,300 H 380 V 380 H 300 L 300,300" stroke="none" fill="#100fcfc" fill-rule="evenodd"></path>
+        <path id="path4" d="M400,400 H 480 V 480 H 400 L 400,400" stroke="none" fill="#100fcfc" fill-rule="evenodd"></path>
+    </g>
+</svg>
